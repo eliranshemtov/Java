@@ -1,0 +1,1 @@
+java -classpath "serverSide.jar";"..\win32\swt.jar" run.Run

@@ -1,0 +1,1 @@
+java -classpath "clientSide.jar";"..\win64\swt.jar" presenter.Presenter
